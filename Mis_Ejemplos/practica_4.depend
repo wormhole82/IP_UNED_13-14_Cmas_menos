@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1357392697 source:c:\practicas\practica_4\vulcano.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"vulcano.h"
+	"calendario.h"
+
+1357392805 c:\practicas\practica_4\vulcano.h
+
+1357395134 source:c:\practicas\practica_4\principal.cpp
+	<stdio.h>
+	<stdlib.h>
+	"vulcano.h"
+
+1357392697 source:c:\practicas\practica_4\calendario.cpp
+	<stdio.h>
+	<string.h>
+	"calendario.h"
+
+1357394867 c:\practicas\practica_4\calendario.h
+	"vulcano.h"
+
+1357395134 source:c:\users\carlos\desktop\practica_4\principal.cpp
+	<stdio.h>
+	<stdlib.h>
+	"vulcano.h"
+
+1357392805 c:\users\carlos\desktop\practica_4\vulcano.h
+
+1357392697 source:c:\users\carlos\desktop\practica_4\vulcano.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"vulcano.h"
+	"calendario.h"
+
+1357394867 c:\users\carlos\desktop\practica_4\calendario.h
+	"vulcano.h"
+
+1357392697 source:c:\users\carlos\desktop\practica_4\calendario.cpp
+	<stdio.h>
+	<string.h>
+	"calendario.h"
+
+1389638333 source:f:\uned\mis_ejemplos\practica_4\principal.cpp
+	<stdio.h>
+	<stdlib.h>
+	"gestion.h"
+
+1389636827 f:\uned\mis_ejemplos\practica_4\vulcano.h
+
+1389638562 source:f:\uned\mis_ejemplos\practica_4\calendario.cpp
+	<stdio.h>
+	<string.h>
+	"calendario.h"
+
+1389638562 f:\uned\mis_ejemplos\practica_4\calendario.h
+	"gestion.h"
+
+1389560156 source:f:\uned\mis_ejemplos\practica_4\vulcano.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"vulcano.h"
+	"calendario.h"
+
+1389640146 source:f:\uned\mis_ejemplos\practica_4\gestion.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+	"calendario.h"
+
+1389638562 f:\uned\mis_ejemplos\practica_4\gestion.h
+
+1389638333 source:f:\uned\mis_ejemplos\principal.cpp
+	<stdio.h>
+	<stdlib.h>
+	"gestion.h"
+
+1389638562 f:\uned\mis_ejemplos\gestion.h
+
+1389638562 source:f:\uned\mis_ejemplos\calendario.cpp
+	<stdio.h>
+	<string.h>
+	"calendario.h"
+
+1389638562 f:\uned\mis_ejemplos\calendario.h
+	"gestion.h"
+
+1389640618 source:f:\uned\mis_ejemplos\gestion.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"gestion.h"
+	"calendario.h"
+
